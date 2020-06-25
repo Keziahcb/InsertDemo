@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/alt jdk1.8.0_251">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/app/keziah/product/11.2.0/dbhome_1/jdbc/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/app/keziah/product/11.2.0/dbhome_1/jdbc/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/Apache Tomcat 8/apache-tomcat-8.5.56/lib/servlet-api.jar" sourcepath=""/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
